@@ -35,9 +35,6 @@ This app will help users:
 
 Every page has an AppBar and Navigation Bar to switch between pages.
 
-You can also check out this video to see the functionalities -
-
-https://youtu.be/gBsRnX6NDv0
 
 
 ## Technologies
@@ -48,7 +45,7 @@ https://youtu.be/gBsRnX6NDv0
 * Flutter
 
 ## Collaborators
-Created by [Siddharth Choudhary](https://github.com/babayaga2002) in collaboration with [Samayk Jain](https://github.com/samyakjain26)
+Created by [Suryatej Lalam](https://github.com/lsuryatej)
 
 
 ## Inspiration
